@@ -61,5 +61,5 @@ function showResultPage(){
   location.href = './result.html?mbti=' + mbti
 }
 
-
+ㅜ
 renderQuestion()
